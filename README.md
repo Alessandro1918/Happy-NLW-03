@@ -12,6 +12,14 @@
 </p>
 
 
+<p align="center">
+  <img alt="Happy" src=".github/happy.png" width="100%">
+</p>
+<p align="center">
+  <img alt="Map" src=".github/map.png" width="33%">
+  <img alt="Create" src=".github/create.png" width="33%">
+  <img alt="Details" src=".github/details.png" width="33%">
+</p>
 
 ## 🚀 Projeto
 O **Happy** é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
@@ -24,7 +32,7 @@ O projeto é dividido entre as seguintes partes:
 - :bar_chart: **API**
   - Backend da Aplicação. O servidor processa as requisições e retorna os dados em formato JSON.
 
-- 💻 **Web (:construction: Em desenvolvimento :construction:)**
+- 💻 **Web**
   - Frontend. Renderiza as páginas do site, versão desktop
 
 - :iphone: **Mobile (:construction: Em desenvolvimento :construction:)**
