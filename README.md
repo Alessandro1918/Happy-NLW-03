@@ -76,6 +76,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
   $ yarn # or npm install
   
   # Create tables in the database file
+  # (run the "typeorm" script from package.json)
   $ yarn typeorm migration:run # or npm run typeorm migration:run
   
   # Start API (run the "dev" script from package.json):
