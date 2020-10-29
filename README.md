@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#card_index_dividers-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -29,18 +29,18 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 O projeto é dividido entre as seguintes partes:
 
 
-- :bar_chart: **API**
+- 📊  **API**
   - Backend da Aplicação. O servidor processa as requisições e retorna os dados em formato JSON.
 
-- 💻 **Web**
-  - Frontend. Renderiza as páginas do site, versão desktop
+- 💻  **Web**
+  - Frontend. Versão do site para desktop.
 
-- :iphone: **Mobile (:construction: Em desenvolvimento :construction:)**
+- 📱  **Mobile (:construction: Em desenvolvimento :construction:)**
   - Versão do site para dispositivos móveis.
 
 
 
-## :hammer: Tecnologias
+## :hammer_and_wrench: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -54,10 +54,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-## :open_file_folder: Utilização
+## :card_index_dividers: Utilização
 
 
-### :package: Clonando o App:
+### 📦	Clonando o App:
 
 ```bash
 # Clonar o repositório
@@ -65,9 +65,9 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
 ```
 
 
-### :arrow_forward: Rodando o App:
+### ▶️ Rodando o App:
 
-- :bar_chart: API
+- 📊  API
 
 ```sh
   $ cd backend
@@ -78,14 +78,15 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
   # Create tables in the database file
   $ yarn typeorm migration:run # or npm run typeorm migration:run
   
-  # API start
+  # Start API (run the "dev" script from package.json):
   $ yarn dev # or npm run dev
 
-  # Adress
+  # API endpoints
   $ http://localhost:3333
-```
+  $ http://localhost:3333/orphanages
+  ```
 
-- :computer: Web app
+- 💻   Web app
 
 ```sh
   $ cd web
@@ -100,7 +101,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
   $ http://localhost:3000
 ```
 
-- :iphone: Mobile app
+- 📱  Mobile app
 
 ```sh
   $ cd mobile
