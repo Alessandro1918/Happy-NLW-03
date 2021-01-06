@@ -72,7 +72,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
 ```sh
   $ cd backend
   
-  # Dependencies install.
+  # Install dependencies.
   $ yarn # or npm install
   
   # Create tables in the database file
@@ -92,7 +92,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
 ```sh
   $ cd web
   
-  # Dependencies install.
+  # Install dependencies.
   $ yarn # or npm install
   
   # Running web app
@@ -107,7 +107,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
 ```sh
   $ cd mobile
   
-  # Dependencies install.
+  # Install dependencies.
   $ yarn # or npm install
   
   # Running mobile app
