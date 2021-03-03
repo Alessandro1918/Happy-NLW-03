@@ -6,11 +6,10 @@
 
 <p align="center">
   <a href="#project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#card_index_dividers-utilização">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#license">Licença</a>
 </p>
-
 
 <p align="center">
   <img alt="Happy" src=".github/happy.png" width="100%">
@@ -21,13 +20,13 @@
   <img alt="Details" src=".github/details.png" width="33%">
 </p>
 
-## 🚀 Projeto <a name = "project"></a>
+
+## 🚀 Projeto <a name="project"></a>
 O **Happy** é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
 O projeto é dividido entre as seguintes partes:
-
 
 - 📊  **API**
   - Backend da Aplicação. O servidor processa as requisições e retorna os dados em formato JSON.
@@ -35,12 +34,11 @@ O projeto é dividido entre as seguintes partes:
 - 💻  **Web**
   - Frontend. Versão do site para desktop.
 
-- 📱  **Mobile (:construction: Em desenvolvimento :construction:)**
+- 📱  **Mobile**
   - Versão do site para dispositivos móveis.
 
 
-
-## :hammer_and_wrench: Tecnologias
+## :hammer_and_wrench: Tecnologias <a name="technologies"></a>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -53,9 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 
-
-## :card_index_dividers: Utilização
-
+## :card_index_dividers: Utilização <a name="usage"></a>
 
 ### 📦	Clonando o App:
 
@@ -87,7 +83,7 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
   $ http://localhost:3333/orphanages
   ```
 
-- 💻   Web app
+- 💻  Web app
 
 ```sh
   $ cd web
@@ -115,7 +111,6 @@ $ git clone https://github.com/Alessandro1918/Happy-NLW-03
 ```
 
 
-
-## :memo: Licença
+## :memo: Licença <a name="license"></a>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
